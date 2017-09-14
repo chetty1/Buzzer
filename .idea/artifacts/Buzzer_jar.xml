@@ -1,0 +1,58 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Buzzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Buzzer_jar</output-path>
+    <root id="archive" name="Buzzer.jar">
+      <element id="module-output" name="Buzzer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/usb-0.5.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/jssc-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/mail-1.4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/rxtx-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/args4j-2.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/mapdb-1.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/hawtbuf-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/pi4j-core-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/jaxb-core-2.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/jaxb-impl-2.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/mqtt-client-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/slf4j-api-1.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/camel-core-2.17.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/camel-mail-2.16.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/hawtdispatch-1.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/HdrHistogram-2.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/slf4j-jdk14-1.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-mail-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-mqtt-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/slf4j-log4j12-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-camel-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-swing-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-legacy-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/moquette-broker-0.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-console-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/bluecove-2.1.1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/validation-api-1.0.0.GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-base-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-mqtt-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-util-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/netty-codec-4.0.33.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-beans-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-proxy-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/netty-buffer-4.0.33.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/netty-common-4.0.33.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/netty-handler-4.0.33.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-virtual-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/hawtdispatch-transport-1.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/moquette-netty-parser-0.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/netty-transport-4.0.33.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-bluetooth-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-digispark-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-raspberry-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/moquette-parser-commons-0.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/netty-codec-http-4.0.33.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-serial-jssc-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-core-serial-rxtx-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-networkproxyserver-2.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

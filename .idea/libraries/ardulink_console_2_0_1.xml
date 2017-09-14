@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ardulink-console-2.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ardulink-V2.0.1-20161105-1901/ardulink/lib/ardulink-console-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
